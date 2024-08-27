@@ -9,3 +9,18 @@ To understand the cultural richness and genre diversity in music generation mode
    We use these links as playgrounds for these models to analyse their effectiveness for text-to-music generation.
 
 ## Samples : 
+
+### Indian Hip-Hop
+Prompt: Upbeat Indian hip-hop on the life of an artist living in the city slums. 
+
+**Udio**
+https://github.com/user-attachments/assets/f276b9bf-e72b-40b4-8086-bc3897f0db34
+https://github.com/user-attachments/assets/c80677e8-071e-4e65-8a5b-a8abfcafe134
+
+**MusicGen**
+https://github.com/user-attachments/assets/3daab614-04a4-4b5d-8508-70ca3a054d65
+
+**SunoAI**
+https://github.com/user-attachments/assets/741fe262-cfe2-4ba3-92ad-bd4fe63d8e29
+https://github.com/user-attachments/assets/5fe56183-e352-4dad-96b9-93b846ace164
+
