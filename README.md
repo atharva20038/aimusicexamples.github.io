@@ -19,7 +19,7 @@ To understand the cultural richness and genre diversity in music generation mode
       <td><strong>Udio(v1)</strong></td>
       <td><strong>Udio(v2)</strong></td>
       <td><strong>MusicGen</strong></td>
-      <td><strong>SunoAI(v2)</strong></td>
+      <td><strong>SunoAI(v1)</strong></td>
        <td><strong>SunoAI(v2)</strong></td>
     </tr>
     <tr>
@@ -171,13 +171,13 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
     <tr>
       <td>
         <video controls width="250">
-          <source src="Song%20Samples/American%20Rock/Suno_v1.mp3" type="audio/mp3">
+          <source src="Song%20Samples/American%20Rock/Udio_v1.mp3" type="audio/mp3">
           Your browser does not support the video tag.
         </video>
       </td>
       <td>
         <video controls width="250">
-          <source src="Song%20Samples/American%20Rock/Suno_v2.mp3" type="audio/mp3">
+          <source src="Song%20Samples/American%20Rock/Udio_v2.mp3" type="audio/mp3">
           Your browser does not support the video tag.
         </video>
       </td>
@@ -202,5 +202,200 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
     </tr>
   </table>
 </div>
+
+### Korean Pop
+
+**Prompt:** Korean pop music for carefree teens partying at night.
+
+<div>
+  <table>
+    <tr>
+      <td><strong>Udio(v1)</strong></td>
+      <td><strong>Udio(v2)</strong></td>
+      <td><strong>MusicGen</strong></td>
+      <td><strong>SunoAI(v2)</strong></td>
+      <td><strong>SunoAI(v2)</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Korean%20Pop/Udio_v1.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Korean%20Pop/Udio_v2.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Korean%20Pop/MusicGen" type="audio/wav">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Korean%20Pop/Suno_v1.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Korean%20Pop/Suno_v2.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Indian Classical
+
+**Prompt:** Generate an Indian classical music piece with a joyful and uplifting tone. Include a soothing sitar melody in the background, creating a harmonious and positive atmosphere throughout the composition.
+
+<div>
+  <table>
+    <tr>
+      <td><strong>Udio(v1)</strong></td>
+      <td><strong>Udio(v2)</strong></td>
+      <td><strong>MusicGen</strong></td>
+      <td><strong>SunoAI(v2)</strong></td>
+      <td><strong>SunoAI(v2)</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Indian%20Classical/Udio_v1.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Indian%20Classical/Udio_v2.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Indian%20Classical/MusicGen" type="audio/wav">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Indian%20Classical/Suno_v1.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Indian%20Classical/Suno_v2.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Middle Eastern Classical
+
+**Prompt:** Classical Middle Eastern music with Oud used in the background.
+
+<div>
+  <table>
+    <tr>
+      <td><strong>Udio(v1)</strong></td>
+      <td><strong>Udio(v2)</strong></td>
+      <td><strong>MusicGen</strong></td>
+      <td><strong>SunoAI(v2)</strong></td>
+      <td><strong>SunoAI(v2)</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Middle%20Eastern%20Classical/Udio_v1.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Middle%20Eastern%20Classical/Udio_v2.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Middle%20Eastern%20Classical/MusicGen.wav" type="audio/wav">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Middle%20Eastern%20Classical/Suno_v1.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Middle%20Eastern%20Classical/Suno_v2.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Latin American Rumba
+
+**Prompt:** Create a lively Latin rumba dance piece with vibrant beats and a beachy, summery vibe. Keep the music upbeat with playful melodies.
+
+<div>
+  <table>
+    <tr>
+      <td><strong>Udio(v1)</strong></td>
+      <td><strong>Udio(v2)</strong></td>
+      <td><strong>MusicGen</strong></td>
+      <td><strong>SunoAI(v2)</strong></td>
+      <td><strong>SunoAI(v2)</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Latin%20American%20Rumba/Udio_v1.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Latin%20American%20Rumba/Udio_v2.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Latin%20American%20Rumba/MusicGen.wav" type="audio/wav">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Latin%20American%20Rumba/Suno_v1.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Latin%20American%20Rumba/Suno_v2.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 
 
