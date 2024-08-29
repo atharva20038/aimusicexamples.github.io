@@ -25,7 +25,7 @@ To understand the cultural richness and genre diversity in music generation mode
     <tr>
       <td>
         <video controls width="250">
-          <source src="https://github.com/user-attachments/assets/741fe262-cfe2-4ba3-92ad-bd4fe63d8e29" type="video/mp4">
+          <source src="https://github.com/atharva20038/aimusicexamples.github.io/blob/master/Song%20Samples/American%20Jazz/Suno_v1.mp3" type="video/mp4">
           Your browser does not support the video tag.
         </video>
       </td>
