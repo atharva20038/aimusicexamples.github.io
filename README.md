@@ -58,8 +58,8 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
   </table>
 </div>
 
-#### Western Classical
-**Prompt:** Create a Western classical music piece with a joyful and uplifting tone. Incorporate variations in the performance style of Bach, emphasising dynamic contrasts and intricate melodic lines to evoke a sense of positivity.
+  <h4>Western Classical</h4>
+  <p><strong>Prompt:</strong> Create a Western classical music piece with a joyful and uplifting tone. Incorporate variations in the performance style of Bach, emphasising dynamic contrasts and intricate melodic lines to evoke a sense of positivity.</p>
 
 <div>
   <table>
@@ -105,10 +105,8 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
   </table>
 </div>
 
-#### American Rock
-**Prompt:** Generate an intense American metal track with an aggressive and powerful tone, perfect for a street fighter vibe. Incorporate heavy riffs, fast-paced drumming, and gritty vocals.
-
-Note: For SunoAI, the prompt was flagged for moderation, due to the use of the term “aggressive” hence we removed the term “aggressive” from the prompt for SunoAI.
+ <h4>American Rock</h4>
+  <p><strong>Prompt:</strong> Generate an intense American metal track with an aggressive and powerful tone, perfect for a street fighter vibe. Incorporate heavy riffs, fast-paced drumming, and gritty vocals.</p>
 
 <div>
   <table>
