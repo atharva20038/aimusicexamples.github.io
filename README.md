@@ -156,7 +156,7 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
 </div>
 </div>
 
-### Mid-Represented Genres
+### Moderately Represented Genres
 <div style="background-color: #fff3cd; padding: 15px; border-radius: 5px;">
 
 #### Korean Pop
@@ -254,7 +254,7 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
 </div>
 </div>
 
-### Under-Represented Genres
+### Underrepresented Genres
 <div style="background-color: #f8d7da; padding: 15px; border-radius: 5px;">
 
 #### Indian Hip-Hop
