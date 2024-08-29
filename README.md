@@ -59,34 +59,33 @@ https://github.com/user-attachments/assets/f9cbbb2f-dfbe-4311-87af-c62cece5fc84
 **Prompt:** Upbeat Indian hip-hop on the life of an artist living in the city slums.
 
 <div>
-<strong>Udio</strong>
-<br>
-<video controls>
-  <source src="https://github.com/user-attachments/assets/64da35b6-5fc4-4c9b-b006-121b49319291" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<br>
-<video controls width="250">
-  <source src="https://github.com/user-attachments/assets/27e7aed8-2ba0-4b6d-93fc-4e4e6d5c9876" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+  <table>
+    <tr>
+      <td><strong>Udio</strong></td>
+      <td><strong>MusicGen</strong></td>
+      <td><strong>SunoAI</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <video controls width="250">
+          <source src="https://github.com/user-attachments/assets/741fe262-cfe2-4ba3-92ad-bd4fe63d8e29" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="https://github.com/user-attachments/assets/cdf12fd8-fb78-4b9c-a35f-5417de3564aa" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="https://github.com/user-attachments/assets/1031e366-4028-4433-8b4e-f26e0794c9b4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div>
-<strong>MusicGen</strong>
-<br>
-<video controls width="250">
-  <source src="https://github.com/user-attachments/assets/cdf12fd8-fb78-4b9c-a35f-5417de3564aa" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</div>
-
-<div>
-<strong>SunoAI</strong>
-<br>
-<video controls width="250">
-  <source src="https://github.com/user-attachments/assets/1031e366-4028-4433-8b4e-f26e0794c9b4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</div>
 
