@@ -1,13 +1,13 @@
-# Global South in AI-generated Music:
+# Global South in AI-generated Music
 This GitHub page highlights an important issue in AI-generated music: the lack of representation for Global South music genres. We've put together examples showing how AI models do a good job with well-known genres like American Jazz, Western Classical, and American Rock. But when it comes to genres like Korean Pop and Latin American Rumba, the AI doesn't perform as well, showing less variety and depth.<br/>
 The biggest gap is with under-represented genres like Middle Eastern Classical, Indian Classical, and Indian Hip-Hop. These genres, which are important to the cultural identity of the Global South, are often ignored or poorly represented by AI models. Our page shows these differences and calls for a more inclusive approach to AI music generation so that the rich musical traditions from all parts of the world are recognized and preserved.
 
-## Music Generation Models Evaluated: 
+## Music Generation Models Evaluated
 1. [Udio](https://www.udio.com/)
 2. [Suno](https://suno.com/create)
 3. [MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
 
-## Generated Samples:
+## Generated Samples
 
 ### Well-Represented Genres
 <div style="background-color: #d4edda; padding: 15px; border-radius: 5px;">
