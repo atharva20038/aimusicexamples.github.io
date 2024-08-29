@@ -105,4 +105,52 @@ To understand the cultural richness and genre diversity in music generation mode
   </table>
 </div>
 
+### Western Classical
+
+**Prompt:** Create a Western classical music piece with a joyful and uplifting tone. Incorporate variations in the performance style of Bach, emphasising dynamic contrasts and intricate melodic lines to evoke a sense of positivity.
+
+<div>
+  <table>
+    <tr>
+      <td><strong>Udio(v1)</strong></td>
+      <td><strong>Udio(v2)</strong></td>
+      <td><strong>MusicGen</strong></td>
+      <td><strong>SunoAI(v2)</strong></td>
+       <td><strong>SunoAI(v2)</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <video controls width="250">
+          <source src="https://github.com/user-attachments/assets/741fe262-cfe2-4ba3-92ad-bd4fe63d8e29" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="https://github.com/user-attachments/assets/741fe262-cfe2-4ba3-92ad-bd4fe63d8e29" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="https://github.com/user-attachments/assets/cdf12fd8-fb78-4b9c-a35f-5417de3564aa" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="https://github.com/user-attachments/assets/1031e366-4028-4433-8b4e-f26e0794c9b4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="https://github.com/user-attachments/assets/741fe262-cfe2-4ba3-92ad-bd4fe63d8e29" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
