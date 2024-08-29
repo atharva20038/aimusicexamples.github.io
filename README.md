@@ -67,7 +67,7 @@ To understand the cultural richness and genre diversity in music generation mode
       <td><strong>Udio(v1)</strong></td>
       <td><strong>Udio(v2)</strong></td>
       <td><strong>MusicGen</strong></td>
-      <td><strong>SunoAI(v2)</strong></td>
+      <td><strong>SunoAI(v1)</strong></td>
        <td><strong>SunoAI(v2)</strong></td>
     </tr>
     <tr>
@@ -115,7 +115,7 @@ To understand the cultural richness and genre diversity in music generation mode
       <td><strong>Udio(v1)</strong></td>
       <td><strong>Udio(v2)</strong></td>
       <td><strong>MusicGen</strong></td>
-      <td><strong>SunoAI(v2)</strong></td>
+      <td><strong>SunoAI(v1)</strong></td>
        <td><strong>SunoAI(v2)</strong></td>
     </tr>
     <tr>
@@ -165,7 +165,7 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
       <td><strong>Udio(v1)</strong></td>
       <td><strong>Udio(v2)</strong></td>
       <td><strong>MusicGen</strong></td>
-      <td><strong>SunoAI(v2)</strong></td>
+      <td><strong>SunoAI(v1)</strong></td>
        <td><strong>SunoAI(v2)</strong></td>
     </tr>
     <tr>
@@ -213,7 +213,7 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
       <td><strong>Udio(v1)</strong></td>
       <td><strong>Udio(v2)</strong></td>
       <td><strong>MusicGen</strong></td>
-      <td><strong>SunoAI(v2)</strong></td>
+      <td><strong>SunoAI(v1)</strong></td>
       <td><strong>SunoAI(v2)</strong></td>
     </tr>
     <tr>
@@ -261,7 +261,7 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
       <td><strong>Udio(v1)</strong></td>
       <td><strong>Udio(v2)</strong></td>
       <td><strong>MusicGen</strong></td>
-      <td><strong>SunoAI(v2)</strong></td>
+      <td><strong>SunoAI(v1)</strong></td>
       <td><strong>SunoAI(v2)</strong></td>
     </tr>
     <tr>
@@ -309,7 +309,7 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
       <td><strong>Udio(v1)</strong></td>
       <td><strong>Udio(v2)</strong></td>
       <td><strong>MusicGen</strong></td>
-      <td><strong>SunoAI(v2)</strong></td>
+      <td><strong>SunoAI(v1)</strong></td>
       <td><strong>SunoAI(v2)</strong></td>
     </tr>
     <tr>
@@ -357,7 +357,7 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
       <td><strong>Udio(v1)</strong></td>
       <td><strong>Udio(v2)</strong></td>
       <td><strong>MusicGen</strong></td>
-      <td><strong>SunoAI(v2)</strong></td>
+      <td><strong>SunoAI(v1)</strong></td>
       <td><strong>SunoAI(v2)</strong></td>
     </tr>
     <tr>
