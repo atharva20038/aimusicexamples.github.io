@@ -91,13 +91,13 @@ To understand the cultural richness and genre diversity in music generation mode
       </td>
       <td>
         <video controls width="250">
-          <source src="Song%20Samples/American%20Jazz/Suno_v1" type="audio/mp3">
+          <source src="Song%20Samples/American%20Jazz/Suno_v1.mp3" type="audio/mp3">
           Your browser does not support the video tag.
         </video>
       </td>
       <td>
         <video controls width="250">
-          <source src="Song%20Samples/American%20Jazz/Suno_v2" type="audio/mp3">
+          <source src="Song%20Samples/American%20Jazz/Suno_v2.mp3" type="audio/mp3">
           Your browser does not support the video tag.
         </video>
       </td>
@@ -183,7 +183,7 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
       </td>
       <td>
         <video controls width="250">
-          <source src="Song%20Samples/American%20Rock/MusicGen" type="audio/wav">
+          <source src="Song%20Samples/American%20Rock/MusicGen.wav" type="audio/wav">
           Your browser does not support the video tag.
         </video>
       </td>
@@ -231,7 +231,7 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
       </td>
       <td>
         <video controls width="250">
-          <source src="Song%20Samples/Korean%20Pop/MusicGen" type="audio/wav">
+          <source src="Song%20Samples/Korean%20Pop/MusicGen.wav" type="audio/wav">
           Your browser does not support the video tag.
         </video>
       </td>
@@ -279,7 +279,7 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
       </td>
       <td>
         <video controls width="250">
-          <source src="Song%20Samples/Indian%20Classical/MusicGen" type="audio/wav">
+          <source src="Song%20Samples/Indian%20Classical/MusicGen.wav" type="audio/wav">
           Your browser does not support the video tag.
         </video>
       </td>
