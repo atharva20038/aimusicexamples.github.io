@@ -144,7 +144,7 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
       </td>
       <td>
         <video controls width="250">
-          <source src="Song%20Samples/Western%20Classical/Suno_v2.mp3" type="audio/mp3">
+          <source src="Song%20Samples/American%20Rock/Suno_v2.mp3" type="audio/mp3">
           Your browser does not support the video tag.
         </video>
       </td>
@@ -253,7 +253,7 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
 ### Underrepresented Genres
 <div style="background-color: #f8d7da; padding: 15px; border-radius: 5px;">
 <h4>Indian Hip-Hop</h4>
-<p><strong>Upbeat Indian hip-hop on the life of an artist living in the city slums.</p>
+<p><strong>Prompt:</strong> Upbeat Indian hip-hop on the life of an artist living in the city slums.</p>
 
 <div>
   <table>
@@ -300,7 +300,7 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
 </div>
 
 <h4>Indian Classical</h4>
-<p><strong>Generate an Indian classical music piece with a joyful and uplifting tone. Include a soothing sitar melody in the background, creating a harmonious and positive atmosphere throughout the composition.</p>
+<p><strong>Prompt:</strong> Generate an Indian classical music piece with a joyful and uplifting tone. Include a soothing sitar melody in the background, creating a harmonious and positive atmosphere throughout the composition.</p>
 
 <div>
   <table>
@@ -347,7 +347,7 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
 </div>
 
 <h4>Middle Eastern Classical</h4>
-<p><strong>Classical Middle Eastern music with Oud used in the background.</p>
+<p><strong>Prompt:</strong> Classical Middle Eastern music with Oud used in the background.</p>
 
 <div>
   <table>
