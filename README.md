@@ -7,7 +7,7 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
 2. [Suno](https://suno.com/create)
 3. [MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
 
-## Music Generation Samples :
+## Generated Samples :
 
 ### Indian Hip-Hop
 **Prompt:** Upbeat Indian hip-hop on the life of an artist living in the city slums.
