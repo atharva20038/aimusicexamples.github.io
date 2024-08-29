@@ -10,6 +10,8 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
 ## Generated Samples:
 
 ### Well-Represented Genres
+<div style="background-color: #d4edda; padding: 15px; border-radius: 5px;">
+  
 #### American Jazz
 **Prompt:** Compose an American jazz piece with a romantic and intimate tone, perfect for a cosy dinner evening and slow dancing. Use smooth saxophone melodies, gentle piano chords, and a relaxed rhythm in the musical piece.
 
@@ -152,8 +154,11 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
     </tr>
   </table>
 </div>
+</div>
 
 ### Mid-Represented Genres
+<div style="background-color: #fff3cd; padding: 15px; border-radius: 5px;">
+
 #### Korean Pop
 **Prompt:** Korean pop music for carefree teens partying at night.
 
@@ -247,8 +252,11 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
     </tr>
   </table>
 </div>
+</div>
 
 ### Under-Represented Genres
+<div style="background-color: #f8d7da; padding: 15px; border-radius: 5px;">
+
 #### Indian Hip-Hop
 **Prompt:** Upbeat Indian hip-hop on the life of an artist living in the city slums.
 
@@ -388,4 +396,5 @@ Note: For SunoAI, the prompt was flagged for moderation, due to the use of the t
       </td>
     </tr>
   </table>
+</div>
 </div>
