@@ -394,7 +394,7 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
 </div>
 
 <h4>West African Folk (Mali)</h4>
-<p><strong>Prompt:</strong> Upbeat Indian hip-hop on the life of an artist living in the city slums.</p>
+<p><strong>Prompt:</strong> Create an African folk music piece with smooth Kora chords and gentle djembe beats, celebrating a festival. Evoke a joyful, relaxed vibe, ideal for an outdoor afternoon gathering filled with tradition. </p>
 
 <div>
   <table>
@@ -433,6 +433,52 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
       <td>
         <video controls width="250">
           <source src="Song%20Samples/West%20African%20Folk%20(Mali)/Suno_v2.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h4>East African Folk</h4>
+<p><strong>Prompt:</strong> Create an African folk piece with frequent, periodic drum beats harmonized with the sounds of the masiqo. Make it upbeat and lively, perfect for dancing at a wedding celebration. </p>
+<div>
+  <table>
+    <tr>
+      <td><strong>Udio(v1)</strong></td>
+      <td><strong>Udio(v2)</strong></td>
+      <td><strong>MusicGen</strong></td>
+      <td><strong>SunoAI(v1)</strong></td>
+      <td><strong>SunoAI(v2)</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/East African Folk/Udio_v1.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/East African Folk/Udio_v2.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/East African Folk/MusicGen.wav" type="audio/wav">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/East African Folk/Suno_v1.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/East African Folk/Suno_v2.mp3" type="audio/mp3">
           Your browser does not support the video tag.
         </video>
       </td>
