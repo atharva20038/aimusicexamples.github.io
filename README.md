@@ -253,7 +253,7 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
 ### Underrepresented Genres
 <div style="background-color: #f5ac58; padding: 15px; border-radius: 5px;">
 <h4>Indian Hip-Hop</h4>
-<p><strong>Prompt:</strong> Upbeat Indian hip-hop on the life of an artist living in the city slums.</p>
+<p><strong>Prompt:</strong> Create an upbeat Indian hip-hop track on an artist's life in the city slums. Use gritty Hindi rap with raw, powerful lyrics, blending drum kick offset.</p>
 
 <div>
   <table>
