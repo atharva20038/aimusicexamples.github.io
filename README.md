@@ -251,7 +251,7 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
 </div>
 
 ### Underrepresented Genres
-<div style="background-color: #fc9c26; padding: 15px; border-radius: 5px;">
+<div style="background-color: #f5ac58; padding: 15px; border-radius: 5px;">
 <h4>Indian Hip-Hop</h4>
 <p><strong>Prompt:</strong> Upbeat Indian hip-hop on the life of an artist living in the city slums.</p>
 
@@ -487,7 +487,7 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
 </div>
 </div>
 ### Unrepresented Genres
-<div style="background-color: #ed1005; padding: 15px; border-radius: 5px;">
+<div style="background-color: #f56473; padding: 15px; border-radius: 5px;">
   <h4>Indian Folk (Bihu)</h4>
   <p><strong>Prompt:</strong> A joyful piece celebrating spring with Bihu beats, which is a type of Eastern Indian folk music. A pepa playing in the beginning.</p>
 
