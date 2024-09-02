@@ -392,4 +392,51 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
     </tr>
   </table>
 </div>
+
+<h4>West African Folk (Mali)</h4>
+<p><strong>Prompt:</strong> Upbeat Indian hip-hop on the life of an artist living in the city slums.</p>
+
+<div>
+  <table>
+    <tr>
+      <td><strong>Udio(v1)</strong></td>
+      <td><strong>Udio(v2)</strong></td>
+      <td><strong>MusicGen</strong></td>
+      <td><strong>SunoAI(v1)</strong></td>
+      <td><strong>SunoAI(v2)</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/West%20African%20Folk%20(Mali)/Udio_v1.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/West%20African%20Folk%20(Mali)/Udio_v2.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/West%20African%20Folk%20(Mali)/MusicGen.wav" type="audio/wav">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/West%20African%20Folk%20(Mali)/Suno_v1.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/West%20African%20Folk%20(Mali)/Suno_v2.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+    </tr>
+  </table>
+</div>
 </div>
