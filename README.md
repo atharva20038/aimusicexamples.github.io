@@ -251,7 +251,7 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
 </div>
 
 ### Underrepresented Genres
-<div style="background-color: #f8d7da; padding: 15px; border-radius: 5px;">
+<div style="background-color: #f5ac58; padding: 15px; border-radius: 5px;">
 <h4>Indian Hip-Hop</h4>
 <p><strong>Prompt:</strong> Upbeat Indian hip-hop on the life of an artist living in the city slums.</p>
 
@@ -479,6 +479,55 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
       <td>
         <video controls width="250">
           <source src="Song%20Samples/East African Folk/Suno_v2.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+    </tr>
+  </table>
+</div>
+</div>
+### Unrepresented Genres
+<div style="background-color: #f56473; padding: 15px; border-radius: 5px;">
+  <h4>Indian Folk (Bihu)</h4>
+  <p><strong>Prompt:</strong> A joyful piece celebrating spring with Bihu beats, which is a type of Eastern Indian folk music. A pepa playing in the beginning.</p>
+
+<div>
+  <table>
+    <tr>
+      <td><strong>Udio(v1)</strong></td>
+      <td><strong>Udio(v2)</strong></td>
+      <td><strong>MusicGen</strong></td>
+      <td><strong>SunoAI(v1)</strong></td>
+      <td><strong>SunoAI(v2)</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Indian%20Folk%20(bihu)/Udio_v1.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Indian%20Folk%20(bihu)/Udio_v2.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Indian%20Folk%20(bihu)/MusicGen.wav" type="audio/wav">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Indian%20Folk%20(bihu)/Suno_v1.mp3" type="audio/mp3">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video controls width="250">
+          <source src="Song%20Samples/Indian%20Folk%20(bihu)/Suno_v2.mp3" type="audio/mp3">
           Your browser does not support the video tag.
         </video>
       </td>
