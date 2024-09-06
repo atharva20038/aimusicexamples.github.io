@@ -1,9 +1,3 @@
----
-title: Music Generation Papers
-layout: template
-filename: Dataset-Papers.md
---- 
-
 |Year|Paper Name                   |Hours |Region Tags                                  |Genre Tags                                                                                                                                                                      |Pupose                                                                                                                    |Conference|Comments                                                       |
 |----|-----------------------------|------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------|---------------------------------------------------------------|
 |2006|MIR from a Singing Voice     |-     |Japanese                                     |children                                                                                                                                                                        |Music information retrieval (MIR) from singing voice, Lyrics recognition, Melody verification                             |EURASIP   |                                                               |
