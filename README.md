@@ -4,7 +4,7 @@ The biggest gap is with under-represented genres like Middle Eastern Classical, 
 
 This work is based on a study conducted to find the distribution of region-wise and genre-wise music styles in datasets and music generation papers within the research community. An extensive study was performed covering more than 1 Million hours of data and 200 music generation papers in 12 major conferences including IJCAI, AAAI, ICLR, ICML, EURASIP, EUSIPCO, ISMIR, NeurIPS, FRSM, SMC, NMIMS, ICASSP. The surveyed papers and datasets can be found on the following pages:
 <ul>
-<li><a href="https://github.com/atharva20038/aimusicexamples.github.io/blob/master/Surveyed%20Papers/Dataset-Papers.html">Dataset Papers</a></li>
+<li><a href="Surveyed%20Papers/Dataset-Papers.html">Dataset Papers</a></li>
 <li><a href="Surveyed%20Papers/Music-Papers.md">Music Generation Papers</a></li>
 </ul>
 
