@@ -226,3 +226,8 @@
 |Pop Music Generation: From Melody to Multi-style Arrangement | [Hongyuan Zhu, Qi Liu, Nicholas Jing Yuan, Kun Zhang, Guang Zhou, Enhong Chen] | 2020 | ACM | Symbolic | Pop | East Asian |
 |Structure-Enhanced Pop Music Generation via Harmony-Aware Learning | [Xueyao Zhang, Jinchao Zhang, Yao Qiu, Li Wang, Jie Zhou] | 2022 | ACM | Symbolic | Pop | East Asian |
 |Video Background Music Generation with Controllable Music Transformer | [Shangzhe Di, Zeren Jiang, Si Liu, Zhaokai Wang, Leyan Zhu, Zexin He, Hongming Liu, Shuicheng Yan] | 2021 | ACM | Symbolic | Pop, Rock, Electronic, Jazz, Classical, Hip-hop, Blues, Folk | East Asian |
+|PopMAG: Pop Music Accompaniment Generation | [Yi Ren, Jinzheng He, Xu Tan, Tao Qin, Zhou Zhao, Tie-Yan Liu] | 2020 | ACM | Symbolic | Pop | East Asian |
+|Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions | [Yu-Siang Huang, Yi-Hsuan Yang] | 2020 | ACM | Symbolic | Pop | East Asian |
+|Interpretable Melody Generation from Lyrics with Discrete-Valued Adversarial Training | [Wei Duan, Zhe Zhang, Yi Yu, Keizo Oyama] | 2022 | ACM | Symbolic | Pop | East Asian |
+|SongDriver: Real-time Music Accompaniment Generation without Logical Latency nor Exposure Bias | [Zihao Wang, Kejun Zhang, Yuxing Wang, Chen Zhang, Qihao Liang, Pengfei Yu, Yongsheng Feng, Wenbo Liu, Yikai Wang, Yuntao Bao, Yiheng Yang] | 2022 | ACM | Symbolic | Pop | East Asian |
+|Conditional LSTM-GAN for Melody Generation from Lyrics | [Yi Yu, Abhishek Srivastava, Simon Canales] | 2021 | ACM | Symbolic | Pop | East Asian |
