@@ -231,3 +231,16 @@
 |Interpretable Melody Generation from Lyrics with Discrete-Valued Adversarial Training | [Wei Duan, Zhe Zhang, Yi Yu, Keizo Oyama] | 2022 | ACM | Symbolic | Pop | East Asian |
 |SongDriver: Real-time Music Accompaniment Generation without Logical Latency nor Exposure Bias | [Zihao Wang, Kejun Zhang, Yuxing Wang, Chen Zhang, Qihao Liang, Pengfei Yu, Yongsheng Feng, Wenbo Liu, Yikai Wang, Yuntao Bao, Yiheng Yang] | 2022 | ACM | Symbolic | Pop | East Asian |
 |Conditional LSTM-GAN for Melody Generation from Lyrics | [Yi Yu, Abhishek Srivastava, Simon Canales] | 2021 | ACM | Symbolic | Pop | East Asian |
+|Calliope: A Co-creative Interface for Multi-Track Music Generation | [Renaud Bougueng Tchemeube, Jeffrey John Ens, Philippe Pasquier] | 2022 | ACM | Symbolic | Pop, Rock, Electronic, Jazz, Classical, Hip-hop, Blues, Folk | American |
+|Bach Genre Music Generation with WaveNet—A Steerable CNN-based Method with Different Temperature Parameters | [Shangxuan Luo] | 2023 | ACM | Symbolic | Others | East Asian |
+|A Variant Model of TGAN for Music Generation | [Ping-Sung Cheng, Chieh-Ying Lai, Chun-Chieh Chang, Shu-Fen Chiou, Yu-Chieh Yang] | 2020 | ACM | Symbolic | Others | East Asian |
+|Coarse-To-Fine Framework For Music Generation via Generative Adversarial Networks | [Dan Ma, Bin Liu, Xiyu Qiao, Danni Cao, Guosheng Yin] | 2020 | ACM | Symbolic | Folk | East Asian |
+|Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models | [Ryan Louie, Andy Coenen, Cheng Zhi Huang, Michael Terry, Carrie J. Cai] | 2020 | ACM | Symbolic | Others | American |
+|Drum Synthesis and Rhythmic Transformation with Adversarial Autoencoders | [Maciej Tomczak, Masataka Goto, Jason Hockman] | 2020 | ACM | Symbolic | Others | European |
+|A Progressive-Adaptive Music Generator (PAMG): An Approach to Interactive Procedural Music for Videogames | [Alvaro Eduardo Lopez Duarte] | 2024 | ACM | Audio | Others | American |
+|Graph-Based Mutations for Music Generation | [Maziar Kanani, Seán O'Leary, James McDermott] | 2023 | ACM | Symbolic | Folk | European |
+|Collaborating with an Autonomous Agent to Generate Affective Music | [Fabio Morreale, Antonella De Angeli] | 2016 | ACM | Symbolic | Others | European |
+|ReStyle-MusicVAE: Enhancing User Control of Deep Generative Music Models with Expert Labeled Anchors | [Damjan Prvulovic, Richard Vogl, Peter Knees] | 2022 | ACM | Symbolic | Others | European |
+|ScripTONES: Sentiment-Conditioned Music Generation for Movie Scripts | [Vishruth Veerendranath, Vibha Masti, Utkarsh Gupta, Hrishit Chaudhuri, Gowri Srinivasa] | 2024 | ACM | Symbolic | Others | South Asian |
+|PiCoGen: Generate Piano Covers with a Two-stage Approach | [Chih-Pin Tan, Shuen-Huei Guan, Yi-Hsuan Yang] | 2024 | ACM | Symbolic | Pop | East Asian |
+|Score Transformer: Generating Musical Score from Note-level Representation | [Masahiro Suzuki] | 2022 | ACM | Symbolic | Classical | East Asian |
